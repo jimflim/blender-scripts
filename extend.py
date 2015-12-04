@@ -19,20 +19,6 @@ from mathutils.geometry import intersect_line_line_2d, intersect_line_line, inte
 PRECISION = 1.0e-5
 
 
-def get_active_point(shape_ob):
-    '''
-    returns active endpoints with handle
-    '''
-    spl = shape_ob.splines.active
-
-    if spl.use_cyclic_u:
-        return None
-    if spl.bezier_points[0].select_control_point:
-        return spl.bezier_points[0].co, spl.bezier_points[0].handle_right
-    elif spl.bezier_points[-1].select_control_point:
-        return spl.bezier_points[-1].co, spl.bezier_points[-1].handle_left
-
-
 def get_selected_bezier_splines(shape_ob):
     '''
     returns selected splines
