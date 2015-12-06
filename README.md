@@ -20,11 +20,14 @@ Also note that 100% precision can never be achieved, since Bezier Splines themse
 Extend Tool has two modes:
 
 One selected endpoint:
-![ext1](http://i.imgur.com/uJoYOIB)
+![Imgur](http://i.imgur.com/uJoYOIB)
+![Imgur](http://i.imgur.com/uzyv1Mv.gif)
+
 The selected point is extended to the next line in space blocking its way.
 
 Two selected endpoints:
-![ext2](http://i.imgur.com/srN4u93)
+![Imgur](http://i.imgur.com/srN4u93)
+
 Both splines are projected in space to their meeting point.
 
 #Trim
