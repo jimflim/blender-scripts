@@ -1,7 +1,7 @@
 Blender Curve CAD Tools
 =======================
 
-2015/12/06 - Extend Tool is up, Trim is coming soon
+2015/12/07 - Trim Tool is up !
 
 _______________________
 
