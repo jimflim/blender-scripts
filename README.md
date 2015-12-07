@@ -33,4 +33,9 @@ Two selected endpoints:
 Both splines are projected in space to their meeting point.
 
 #Trim
-(coming soon)
+
+Simply select a point on a segment you want to trim:
+
+![Imgur](http://i.imgur.com/r6Byfvq.png)
+
+And voilà !
