@@ -15,7 +15,7 @@ This test version is absolutely NOT bug-free and there are a couple of restricti
 
 Also note that 100% precision can never be achieved, since Bezier Splines themselves are just an approximation of a mathematical paradigm. I hope it will be close enough for most purposes, though.
 
-#Extend Tool
+#Extend
 
 Extend Tool has two modes:
 
